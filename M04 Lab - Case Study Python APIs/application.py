@@ -1,3 +1,7 @@
+# Daniel Smith
+# M04 Lab - Case Study: Python APIs
+# Implements basic CRUD functionality via Flask
+
 from flask import Flask, request
 from flask_sqlalchemy import SQLAlchemy
 app = Flask(__name__)
